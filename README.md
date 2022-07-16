@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rajivfkhrr
+- 👋 Hi, I’m @rajivfkhrr  https://rajivfkhrr.github.io/index/
 - 👀 I’m interested in code
 - 🌱 I’m currently learning HTML and CSS to be front-end dev.
 
