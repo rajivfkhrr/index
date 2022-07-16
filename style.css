@@ -1,12 +1,9 @@
 * {
   box-sizing: border-box;
 }
-{
-  box-sizing: border-box;
-}
 
 body {
-  background-color: #ffff;
+  background-color: #474e5d;
   font-family: Helvetica, sans-serif;
 }
 
@@ -22,7 +19,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: gray;
+  background-color: white;
   top: 0;
   bottom: 0;
   left: 50%;
