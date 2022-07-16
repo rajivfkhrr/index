@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #474e5d;
+  background-color: #eeffff;
   font-family: Helvetica, sans-serif;
 }
 
@@ -19,7 +19,7 @@ body {
   content: '';
   position: absolute;
   width: 6px;
-  background-color: white;
+  background-color: #82b3c9;
   top: 0;
   bottom: 0;
   left: 50%;
