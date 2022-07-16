@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajivfkhrr  https://rajivfkhrr.github.io/index/
 - 👀 I’m interested in code
-- 🌱 I’m currently learning HTML and CSS to be front-end dev.
+- 🌱 I’m currently learning HTML and CSS.
 
 <!---
 rajivfkhrr/rajivfkhrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
