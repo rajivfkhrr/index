@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajivfkhrr  https://rajivfkhrr.github.io/index/
-- 👀 I’m interested in code
+- 👀 I’m interested in code. start learning code again in 26 🦀
 - 🌱 I’m currently learning HTML and CSS.
 
 <!---
